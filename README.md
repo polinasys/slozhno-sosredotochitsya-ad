@@ -1,0 +1,1 @@
+git@github.com:polinasys/slozhno-sosredotochitsya-ad.git
