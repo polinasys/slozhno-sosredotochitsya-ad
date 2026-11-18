@@ -1,1 +1,1 @@
-git@github.com:polinasys/slozhno-sosredotochitsya-ad.git
+https://github.com/polinasys/slozhno-sosredotochitsya-ad.git
